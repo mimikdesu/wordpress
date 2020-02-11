@@ -16,4 +16,5 @@
 
     add_action('wp_enqueue_scripts', 'univeristy_files');
     add_action('after_setup_theme', 'university_features');
+    
 ?>
